@@ -18,10 +18,6 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
-# Sample H1 header 
-heloo
-
-
 
 ## Step 2: Add an image
 
